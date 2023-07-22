@@ -5,3 +5,4 @@ some text
 write on git-repo
 change for push to vendor
 origin changed
+change to all
