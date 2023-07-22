@@ -1,0 +1,7 @@
+some text
+some text
+some text
+some text
+write on git-repo
+change for push to vendor
+origin changed
